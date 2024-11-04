@@ -1,5 +1,5 @@
 ---
-title: "CloudFormation Template"
+title: "Create IAM Role"
 date: "`r Sys.Date()`"
 weight: 1
 chapter: false
