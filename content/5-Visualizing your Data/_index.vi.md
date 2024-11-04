@@ -1,7 +1,7 @@
 ---
 title: "Trực quan hóa dữ liệu của bạn"
 date: "`r Sys.Date()`"
-weight: 1
+weight: 5
 chapter: false
 pre: " <b> 5. </b> "
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dọn dẹp"
 date: "`r Sys.Date()`"
-weight: 1
+weight: 6
 chapter: false
 pre: " <b> 6.  </b> "
 ---

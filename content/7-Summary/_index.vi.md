@@ -1,7 +1,7 @@
 ---
 title: "Tóm tắt"
 date: "`r Sys.Date()`"
-weight: 1
+weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
